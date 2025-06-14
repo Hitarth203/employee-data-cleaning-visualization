@@ -1,0 +1,222 @@
+name,department,salary,age,joining_date,experience_years
+Mr. Scott Keith,Finance,77518.0,47.0,2022-10-31,2
+Daniel Leonard,Marketing,47041.0,42.0,2018-07-20,6
+Jason Vaughan,Marketing,79378.17647058824,33.0,2016-11-22,8
+Philip Jackson,Finance,47912.0,30.0,2023-08-04,1
+Chase Harris,Finance,66278.0,31.0,2019-05-15,6
+Christina Zavala,Hr,112730.0,58.0,2019-06-02,6
+Melissa Sutton,Engineering,73041.0,56.0,2019-01-01,6
+Karen Schaefer,Hr,67917.0,30.0,2015-12-29,9
+Michele Erickson,Sales,119929.0,36.0,2018-03-28,7
+Austin Howell,Engineering,99004.0,53.0,2019-01-01,6
+Sierra Hall,Finance,43735.0,26.0,2019-12-22,5
+Ashley Barr,Data Science,52920.0,35.0,2017-01-01,8
+Maria Lucero,Engineering,23287.0,38.0,2019-01-01,6
+Teresa Hernandez,Marketing,96703.0,52.0,2017-01-01,8
+Jermaine Smith,Hr,101106.0,24.0,2019-01-16,6
+Dr. Brian Scott,Sales,51255.0,36.0,2021-08-16,3
+Jonathan Walker,Ceo,58580.0,53.0,2019-05-07,6
+Julia Stout,Finance,21904.0,30.0,2017-07-10,7
+Richard Russell,Engineering,40252.0,46.0,2017-10-27,7
+Seth Barnes,Hr,56473.0,52.0,2023-07-01,1
+Christopher Coleman,Engineering,72013.0,32.0,2024-11-15,0
+Michele Brandt,Marketing,88895.0,56.0,2017-01-31,8
+Christopher Ryan,Finance,39410.0,34.0,2021-08-21,3
+Robert Gordon,Engineering,81848.0,44.0,2015-09-29,9
+Andrea Greene,Marketing,111136.0,27.0,2015-01-01,10
+Kellie Vargas,Finance,55644.0,48.0,2019-10-06,5
+Jeremy Morris,Hr,77724.0,31.0,2017-01-01,8
+Kimberly Kelly,Data Science,85495.0,35.0,2025-03-29,0
+William Hernandez,Ceo,115758.0,31.0,2015-06-15,10
+Meagan King,Engineering,92556.0,56.0,2015-01-01,10
+William Horne,Engineering,116107.0,46.0,2015-12-26,9
+Benjamin Robinson,Ceo,85818.0,36.0,2015-08-17,9
+Emma Franklin,Engineering,32046.0,49.0,2024-08-13,0
+Laurie Lloyd,Engineering,104854.0,51.0,2024-04-12,1
+Melvin Butler,Engineering,106247.0,44.0,2018-12-01,6
+Ryan Myers Phd,Data Science,104617.0,48.0,2017-05-14,8
+Katie Munoz,Ceo,69439.0,49.0,2015-07-07,9
+Kimberly Johnson,Data Science,76479.0,60.0,2016-01-01,9
+Glenda Martinez,Marketing,44036.0,31.0,2016-01-01,9
+Dana Taylor,Ceo,61667.0,32.0,2022-04-27,3
+Michelle Crawford,Ceo,28956.0,48.0,2020-01-25,5
+Trevor Conway,Data Science,64294.0,28.0,2024-12-04,0
+Michael Harrison,Finance,79378.17647058824,50.0,2022-03-18,3
+Nicole Ballard,Engineering,79378.17647058824,49.0,2025-02-20,0
+Shari Marshall,Engineering,98682.0,57.0,2019-01-19,6
+Robert Bates,Finance,27129.0,49.0,2016-01-13,9
+David Wagner,Marketing,119726.0,45.0,2023-04-15,2
+Briana Edwards,Finance,114832.0,51.0,2015-09-03,9
+Kim Oconnor,Finance,96824.0,31.0,2015-08-04,9
+Brent Lyons,Engineering,48292.0,49.0,2022-02-03,3
+Ryan Chandler,Engineering,60827.0,59.0,2018-07-16,6
+Judith Jones,Data Science,35373.0,40.0,2019-12-24,5
+Carol Alvarado,Sales,96020.0,59.0,2020-11-14,4
+Christopher Cruz,Data Science,49572.0,42.0,2016-01-26,9
+Brandon White,Finance,50137.0,25.0,2024-08-31,0
+Jennifer Ortiz,Sales,70516.0,53.0,2021-06-09,4
+Marcus Hart,Engineering,117247.0,46.0,2021-01-18,4
+Lindsey Edwards,Marketing,82233.0,31.0,2023-12-13,1
+Jose Walter,Marketing,28854.0,35.0,2016-09-02,8
+Cassandra White,Engineering,85956.0,28.0,2017-10-09,7
+Robert Garcia,Finance,59501.0,40.0,2019-12-22,5
+Michael Dixon,Marketing,74137.0,46.0,2020-05-05,5
+Keith Lang,Marketing,79378.17647058824,60.0,2020-01-01,5
+James Peterson,Data Science,81055.0,28.0,2024-02-03,1
+Jenna Mitchell,Engineering,89813.0,46.0,2018-03-07,7
+Tiffany Pierce,Data Science,77159.0,60.0,2019-08-18,5
+Kathleen Barnett,Data Science,22743.0,59.0,2020-01-01,5
+Laura Warner,Ceo,26602.0,40.0,2018-07-05,6
+Stephanie Reyes,Engineering,25015.0,22.0,2022-08-02,2
+Daniel Hodge,Hr,81354.0,40.0,2023-12-13,1
+Steven Fields,Marketing,25838.0,35.0,2017-01-01,8
+Samuel Scott,Hr,68691.0,22.0,2016-01-01,9
+Thomas Johnson,Hr,82309.0,34.0,2022-05-14,3
+Ashley Watkins,Marketing,27944.0,23.0,2019-07-28,5
+Michele Elliott,Ceo,56188.0,43.0,2024-01-01,1
+Dana Payne,Ceo,23894.0,23.0,2016-04-23,9
+Renee Scott,Hr,23190.0,39.0,2023-04-15,2
+Mr. Alan Kim,Finance,79378.17647058824,32.0,2015-01-01,10
+Amanda Charles,Finance,67481.0,28.0,2018-01-01,7
+Travis Newton,Ceo,68639.0,30.0,2018-09-14,6
+Anthony Tran,Finance,117175.0,28.0,2024-01-19,1
+Brianna Garcia,Finance,112174.0,42.0,2025-05-24,0
+Julie Donovan,Finance,81710.0,39.0,2021-05-26,4
+Crystal Jones,Engineering,28993.0,50.0,2025-01-10,0
+Wendy Huff,Ceo,68635.0,27.0,2023-09-27,1
+Alicia White,Finance,43217.0,59.0,2020-11-09,4
+Madeline Osborne,Finance,79934.0,42.0,2021-01-13,4
+Jamie Lee,Finance,100039.0,27.0,2022-07-09,2
+Brooke Anderson,Marketing,104999.0,39.0,2024-05-12,1
+Diane Gibbs,Finance,38957.0,42.0,2018-04-30,7
+Cindy Rich,Engineering,36302.0,45.0,2016-12-23,8
+Melody Hardin,Marketing,59041.0,32.0,2018-02-07,7
+Anita Burke,Ceo,31574.0,26.0,2017-01-01,8
+Michael Cervantes,Data Science,98697.0,38.0,2024-02-26,1
+Jason Perez,Marketing,118573.0,34.0,2019-02-24,6
+David Moore,Hr,38296.0,28.0,2015-07-01,9
+Katherine Smith,Ceo,51829.0,40.0,2016-05-04,9
+Brian Phillips,Sales,51648.0,53.0,2016-03-18,9
+Eric Davidson,Finance,99751.0,46.0,2023-01-29,2
+Jamie Holland,Engineering,94091.0,38.0,2015-01-01,10
+Scott Bailey,Finance,111164.0,36.0,2023-02-24,2
+Shane Harrison,Marketing,59003.0,50.0,2025-01-17,0
+Alexander Ramirez,Engineering,73578.0,33.0,2015-08-03,9
+Jordan Curtis,Finance,53333.0,29.0,2018-12-11,6
+Mary Page,Data Science,67704.0,46.0,2023-07-23,1
+Cassie Larson,Hr,42159.0,50.0,2016-02-14,9
+Joel Robinson,Hr,71383.0,46.0,2019-09-20,5
+Robin Sullivan,Sales,68495.0,45.0,2022-01-09,3
+Jeffrey Townsend,Engineering,115357.0,34.0,2020-10-30,4
+Rebecca Thompson,Hr,84759.0,55.0,2018-05-04,7
+Kimberly Clay,Sales,62076.0,31.0,2016-12-05,8
+April Nguyen,Finance,94454.0,45.0,2023-11-20,1
+Tammy White,Data Science,81309.0,50.0,2018-06-11,7
+Peter Smith,Sales,55045.0,38.0,2020-01-01,5
+William Burke,Engineering,108246.0,30.0,2020-06-18,4
+Peter Decker,Finance,34873.0,27.0,2017-01-01,8
+Deborah Bell,Hr,98072.0,50.0,2023-10-31,1
+Joshua Cherry,Finance,117572.0,32.0,2022-01-06,3
+Robert Bailey,Ceo,57676.0,29.0,2024-09-30,0
+Gregory Romero,Marketing,33633.0,38.0,2023-07-12,1
+Mary Ramirez,Finance,72455.0,27.0,2024-11-15,0
+Alejandro Mitchell,Engineering,115132.0,54.0,2024-02-21,1
+Lisa Francis,Marketing,38793.0,51.0,2024-12-11,0
+Mary Werner,Ceo,52187.0,26.0,2016-01-01,9
+Anthony Huerta,Engineering,104209.0,59.0,2019-03-06,6
+Charles Harrison,Hr,68254.0,30.0,2021-07-30,3
+Marilyn Leblanc,Data Science,64020.0,41.0,2016-09-29,8
+Karen Choi,Engineering,103095.0,28.0,2016-04-04,9
+David Barnes,Engineering,66195.0,46.0,2015-08-07,9
+Michele Dickerson,Engineering,61295.0,26.0,2025-04-04,0
+Philip Cruz,Engineering,86443.0,23.0,2019-04-16,6
+Anthony Coffey,Finance,37786.0,60.0,2017-02-24,8
+Dennis Byrd,Hr,99712.0,32.0,2018-01-01,7
+Marcus George,Finance,72812.0,27.0,2018-04-05,7
+Gregory Grant,Ceo,30324.0,47.0,2022-09-16,2
+Brittany Jackson,Marketing,79378.17647058824,31.0,2024-08-04,0
+Mr. Micheal Alexander Jr.,Hr,79378.17647058824,33.0,2023-10-05,1
+Brittany Herrera,Sales,71230.0,33.0,2018-06-05,7
+Bethany Ferguson,Ceo,69498.0,36.0,2021-05-13,4
+Morgan Davenport,Engineering,88680.0,35.0,2016-11-23,8
+Shawn George,Finance,72567.0,40.0,2021-11-22,3
+James Barnes,Hr,92700.0,24.0,2019-11-19,5
+Susan Ramos,Data Science,20199.0,58.0,2022-01-21,3
+Rachel Jacobs,Hr,114114.0,53.0,2019-08-12,5
+Nicole Pittman,Hr,79378.17647058824,22.0,2016-09-28,8
+Darren Donaldson,Hr,87903.0,60.0,2019-05-07,6
+David Gould,Engineering,79378.17647058824,23.0,2020-04-15,5
+Pamela Clark,Sales,61645.0,58.0,2025-04-23,0
+Cameron Brown,Engineering,79378.17647058824,35.0,2016-02-08,9
+Michelle Randall Phd,Engineering,118172.0,43.0,2024-09-01,0
+Dean Richardson,Finance,54197.0,29.0,2024-06-29,0
+Brittany Patrick,Hr,27849.0,49.0,2021-02-01,4
+Helen Nguyen,Sales,37897.0,40.0,2019-07-26,5
+Mark Andrade,Sales,52046.0,27.0,2021-02-01,4
+Christopher Sanchez,Hr,94439.0,33.0,2018-07-10,6
+Steven Johnson,Ceo,100398.0,24.0,2019-01-01,6
+Terry Carter,Finance,50279.0,46.0,2019-08-03,5
+Dana Reid,Data Science,105602.0,40.0,2019-01-01,6
+Elizabeth Mcdaniel,Finance,52310.0,42.0,2019-12-02,5
+Johnny Williams,Engineering,77129.0,53.0,2020-01-01,5
+Michele Short,Sales,104449.0,49.0,2024-05-18,1
+Tommy Cruz,Finance,85113.0,49.0,2021-12-08,3
+Carolyn Santos,Engineering,80063.0,34.0,2023-04-22,2
+Timothy Mcgrath,Data Science,107988.0,24.0,2021-02-25,4
+Rebecca Jacobson,Data Science,101792.0,46.0,2021-08-07,3
+Rachel Moore,Sales,65156.0,36.0,2023-12-07,1
+William Chung,Hr,44383.0,31.0,2017-11-23,7
+Christopher Jackson,Finance,90939.0,35.0,2018-01-01,7
+Summer Hughes,Finance,27113.0,30.0,2016-07-29,8
+Joseph Harper,Data Science,35719.0,27.0,2015-06-18,10
+Courtney Martin,Hr,74561.0,29.0,2020-01-01,5
+Johnny Hudson,Ceo,26542.0,22.0,2024-06-10,1
+Emily Morton,Finance,22903.0,30.0,2020-12-14,4
+Leonard Hensley,Sales,114226.0,26.0,2016-08-11,8
+Joshua Roy,Sales,33772.0,25.0,2019-01-01,6
+Brooke Thompson,Finance,109376.0,33.0,2020-01-01,5
+Ms. Karen Burton,Hr,106959.0,24.0,2017-08-23,7
+Andre Flores,Sales,51561.0,58.0,2021-07-04,3
+James Johnson,Data Science,40647.0,27.0,2017-10-01,7
+Tammy Leonard,Ceo,119033.0,35.0,2019-04-16,6
+Edward Ramirez,Engineering,56181.0,56.0,2023-06-09,2
+Emily Harris,Hr,34020.0,27.0,2017-03-24,8
+Paul Valdez,Ceo,85573.0,36.0,2025-05-22,0
+Daniel Gillespie,Finance,51721.0,34.0,2016-01-01,9
+Christina Stewart,Sales,84944.0,58.0,2018-02-11,7
+Jeffrey Gonzales,Engineering,114418.0,31.0,2024-08-23,0
+Justin Harris,Ceo,69942.0,37.0,2020-10-16,4
+Angela Greene,Engineering,86282.0,45.0,2023-03-24,2
+Jamie Atkins,Data Science,103878.0,52.0,2020-01-01,5
+Frank Mcclain,Marketing,43231.0,33.0,2020-09-01,4
+Dr. David Flowers,Engineering,89277.0,33.0,2016-01-23,9
+Melissa Cooke Dds,Engineering,92018.0,34.0,2023-08-11,1
+Alexander Knox,Marketing,73468.0,39.0,2024-07-16,0
+Michael Lewis,Engineering,25077.0,60.0,2023-09-20,1
+Jennifer Brown,Finance,94950.0,42.0,2024-11-07,0
+Alice Hernandez,Finance,37789.0,42.0,2021-03-25,4
+Joshua Reynolds,Marketing,114964.0,33.0,2018-03-27,7
+Kayla Kerr,Data Science,109830.0,57.0,2023-08-13,1
+Susan Green,Engineering,56900.0,52.0,2019-03-22,6
+Gary Jones,Finance,78027.0,39.0,2019-02-25,6
+Kristin Anderson,Engineering,51211.0,39.0,2022-01-16,3
+Heather Flores,Ceo,117846.0,24.0,2016-01-01,9
+Stephanie Harding,Finance,71245.0,30.0,2018-01-01,7
+Kathryn Norris,Data Science,56982.0,35.0,2015-07-10,9
+Shelly Washington,Engineering,73909.0,31.0,2023-06-03,2
+Dylan Lamb,Engineering,22477.0,52.0,2022-08-09,2
+Joshua Turner,Hr,91902.0,28.0,2019-01-21,6
+Nicole Benson,Hr,79378.17647058824,45.0,2018-01-01,7
+Michelle Flores,Hr,108807.0,30.0,2025-01-06,0
+Mr. Ryan Goodwin,Finance,115996.0,24.0,2016-04-11,9
+Christopher Davis,Hr,98692.0,40.0,2023-10-02,1
+Michelle Green,Ceo,107279.0,26.0,2019-07-02,5
+Samuel Johnson,Finance,66153.0,27.0,2019-11-26,5
+Jacqueline Manning,Sales,78754.0,34.0,2024-09-05,0
+Hailey Benjamin,Marketing,33641.0,57.0,2016-05-23,9
+Andre Gross,Sales,93322.0,26.0,2016-12-14,8
+Debbie Cole,Finance,77100.0,42.0,2024-03-23,1
+Steven Garza,Engineering,58033.0,60.0,2017-04-25,8
+Matthew Ruiz,Finance,94870.0,49.0,2018-12-15,6
+James Rodriguez,Engineering,59026.0,38.0,2023-05-25,2
+Elon Musk,Sales,79378.17647058824,49.0,2020-01-15,5
