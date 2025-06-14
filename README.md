@@ -1,10 +1,10 @@
-# 🧹 Employee Data Cleaning & Visualization Project
+# Employee Data Cleaning & Visualization Project
 
 Hi! This is a small project I worked on to practice **real-world data cleaning and analysis** using Python. I was given a messy dataset of over 250 employee records, and the goal was to clean it up and draw some useful insights using **Pandas, NumPy, Matplotlib, and Seaborn**.
 
 ---
 
-## 📌 What this project is about
+## What this project is about
 
 - The dataset had **missing values, inconsistent text formats, wrong date formats**, and even some unrealistic salary values.
 - I cleaned the data step-by-step using pandas and also handled missing ages using random values.
@@ -12,7 +12,7 @@ Hi! This is a small project I worked on to practice **real-world data cleaning a
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Python  
 - Pandas & NumPy  
@@ -21,7 +21,7 @@ Hi! This is a small project I worked on to practice **real-world data cleaning a
 
 ---
 
-## 🔍 What I did (Cleaning Steps)
+## What I did (Cleaning Steps)
 
 - Removed rows with missing names or departments  
 - Standardized text (like converting names and departments to title case)  
@@ -34,7 +34,7 @@ Hi! This is a small project I worked on to practice **real-world data cleaning a
 
 ---
 
-## 📊 Visualizations Included
+## Visualizations Included
 
 These plots were created using Matplotlib and Seaborn and saved as image files:
 
@@ -45,7 +45,7 @@ These plots were created using Matplotlib and Seaborn and saved as image files:
 
 ---
 
-## 📁 Files in the Repo
+## Files in the Repo
 
 - `messy_employees_big.xlsx` – Raw Excel file (optional to include on GitHub)  
 - `cleaned_employees_big.csv` – Final cleaned dataset  
@@ -54,7 +54,7 @@ These plots were created using Matplotlib and Seaborn and saved as image files:
 
 ---
 
-## 🧠 What I learned
+## What I learned
 
 - How to clean and preprocess data properly using Pandas  
 - Handling real-life issues like NaNs, wrong data formats, and text inconsistencies  
@@ -63,7 +63,7 @@ These plots were created using Matplotlib and Seaborn and saved as image files:
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm currently a BCA student specializing in AI & Machine Learning.  
 This project helped me improve my skills in **data cleaning, analysis, and visualization** — key areas in data science.
